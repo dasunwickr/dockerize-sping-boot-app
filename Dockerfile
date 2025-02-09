@@ -1,5 +1,5 @@
 # JDK 17 Base Image
-FROM eclipse-termurin:17-jdk-jammy
+FROM eclipse-temurin:17-jdk
 
 # Default working directory for container
 WORKDIR /app
